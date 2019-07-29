@@ -143,8 +143,6 @@ def updateHand(hand, word):
     """
     # TO DO ... <-- Remove this comment when you code this function
 
-
-
 #
 # Problem #3: Test word validity
 #
